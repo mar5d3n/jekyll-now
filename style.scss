@@ -17,9 +17,9 @@ html {
   font-size: 100%;
 }
 body{
-background-image: url("//www.solidbackgrounds.com/images/2880x1800/2880x1800-spanish-sky-blue-solid-color-background.jpg");
+background:$BLUEMOON ;
 font: 18px/1.4 $helvetica;
-color: $BLUEMOON;
+color:#000066;
 }
 
 .container {
