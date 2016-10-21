@@ -191,7 +191,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #121dba;
+  color: #00065e;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -201,7 +201,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #121dba;
+  color: #00065e;
   font-size: 16px;
 
   @include mobile {
@@ -224,14 +224,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #121dba;
+    color: #00065e;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #00065e;
     }
   }
 }
@@ -242,7 +242,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #121dba;
+  border-bottom: 1px solid #00065e;
 }
 
 .posts > .post:last-child {
@@ -253,9 +253,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid #121dba;
+    border-left: 2px solid #00065e;
     padding: 0.1em 1em;
-    color: #121dba;
+    color: #00065e;
     font-size: 22px;
     font-style: italic;
   }
@@ -272,9 +272,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #121dba;
+  border-top: 1px solid #00065e;
+  border-bottom: 1px solid #00065e;
+  background-color: #00065e;
 }
 
 footer {
