@@ -17,7 +17,7 @@ html {
   font-size: 100%;
 }
 body{
-background: $BLUEMOON ;
+background:#009dff;
 font: 20px/1.4 $helvetica;
 color: #ffffff;
 }
@@ -122,11 +122,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $BLUEMOON;
+  background: #009dff;
 }
 ::selection {
   color: $black;
-  background: $BLUEMOON;
+  background: #009dff;
 }
 
 // Nicolas Gallagher's micro clearfix hack
