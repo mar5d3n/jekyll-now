@@ -31,7 +31,7 @@ color: #ffffff;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $BLUEMOON;
   font-weight: bold;
 
   line-height: 1.7;
@@ -122,11 +122,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $BLUEMOON;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $BLUEMOON;
 }
 
 // Nicolas Gallagher's micro clearfix hack
