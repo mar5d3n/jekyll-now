@@ -282,7 +282,8 @@ footer {
   text-align: center;
 }
  td {
-   border: 1px solid #002f7c
+   border: 1px solid #002f7c;
+   padding: 0.5em
   }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
