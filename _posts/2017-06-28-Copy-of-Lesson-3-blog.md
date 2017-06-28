@@ -1,5 +1,5 @@
 ---
-title: Copy of Lesson 3 blog
+title: Lesson 4 blog, the games have begun
 layout: post
 author: luke.marsden
 permalink: /copy-of-lesson-3-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 4 Blog, the games have begun</td>
+    <td>Lesson 4 Blog</td>
     <td>Date</td>
     <td>28/06/17</td>
   </tr>
