@@ -1,5 +1,5 @@
 ---
-title: Lesson 5 blog
+title: Lesson 5 blog, font finatics
 layout: post
 author: luke.marsden
 permalink: /lesson-5-blog/
