@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> I did indeed</td>
+    <td> MISSION FAILED, WE'LL GET 'EM NEXT TIME</td>
   </tr>
 </table>
 
