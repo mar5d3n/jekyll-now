@@ -2,7 +2,7 @@
 title: Lesson 4 blog, the games have begun
 layout: post
 author: luke.marsden
-permalink: /copy-of-lesson-3-blog/
+permalink: /Lesson 4 blog/
 source-id: 1pNSTyqQHTHvOeQO16ByIHleIejxTRC8HJ2TDfcwsIKs
 published: true
 ---
