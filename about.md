@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Football and Sport is basically my life
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<a href="https://imgflip.com/i/1s0410"><img src="https://i.imgflip.com/1s0410.jpg" title="made at imgflip.com"/></a>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[luke.marsden@challoners.org](mailto:marsdenluke13@gmail.com)
