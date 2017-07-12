@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Lesson 5 Blog, font fanatics</td>
     <td>Date</td>
-    <td>BIRTHDAY!!! 05/07/2003! HECK YEAHHHHHHHHHHHH SIIICK</td>
+    <td>14th Birthday xD 05/07/2003</td>
   </tr>
 </table>
 
