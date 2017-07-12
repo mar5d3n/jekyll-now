@@ -1,5 +1,5 @@
 ---
-title: Lesson 6 blog
+title: Lesson 6 blog, details, details, details
 layout: post
 author: luke.marsden
 permalink: /lesson-6-blog/
