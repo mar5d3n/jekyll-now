@@ -1,5 +1,5 @@
 ---
-title: Lesson 6 blog, details, details, details
+title: Lesson 6 blog
 layout: post
 author: luke.marsden
 permalink: /lesson-6-blog/
@@ -9,21 +9,21 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 6 Blog, details details details </td>
+    <td>Blog of the year, a blogging blast</td>
     <td>Date</td>
-    <td>12/07/2017</td>
+    <td>19/07/17</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>None of my details in the details section</td>
+    <td>What went well?:</td>
+    <td>I have fully functional and aesthetically pleasing blog page. </td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>To fill in the details section with my emails etc.</td>
+    <td>Even better if I?</td>
+    <td>I had put a more colourful and sophisticated blog.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
