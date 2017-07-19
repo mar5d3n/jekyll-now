@@ -1,5 +1,5 @@
 ---
-title: Lesson 6 blog
+title: Blog of the year, a blogging blast
 layout: post
 author: luke.marsden
 permalink: /lesson-6-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog of the year, a blogging blast</td>
+    <td>Blog of the year</td>
     <td>Date</td>
     <td>19/07/17</td>
   </tr>
